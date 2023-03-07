@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Charles O'Brien
 #### I am a Full Stack Software Developer
-![I am a Full Stack Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![github-header-image](https://user-images.githubusercontent.com/23325500/223582668-81f4e4ed-7542-4dcc-a44e-d8b98f799b43.png)
 
-I am a graduate of New Brunswick Community College's Information Technology: Programmer Analyst program. I have 3 years of experiance as a Full Stack Developer. Feel free to brows my repos. Most of them are simple "cheat sheet" style projects that I refer back to when I am stuck or when I need a simple project to use as a template for my own learning.   
+
+I am a graduate of New Brunswick Community College's Information Technology: Programmer Analyst program. I have 3 years of experiance as a Full Stack Developer. Feel free to brows my repos. Some of them are simple "cheat sheet" style projects that I refer back to when I am stuck or when I need a simple project to use as a template for my own learning.   
 
 Skills: React, React Native, JavaScript, .Net, MongoDB, SQL, PL/SQL, Python and Java
 
