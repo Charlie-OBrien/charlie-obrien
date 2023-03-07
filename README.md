@@ -2,9 +2,9 @@
 #### I am a Full Stack Software Developer
 ![I am a Full Stack Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a graduate of New Brunswick Community College's Information Technology: Programmer Analyst program. I have 3 years of experiance as a Full Stack Developer. Feel free to brows my repos. Most of them are simple "cheat sheet" style projects that I refer back to when I am stuck or when I need a simple project to use as a template for my own learning.   
 
-Skills: React, React Native, JavaScript, .Net, MongoDB, SQL, PL/SQL and Java
+Skills: React, React Native, JavaScript, .Net, MongoDB, SQL, PL/SQL, Python and Java
 
 - 🔭 I’m currently working on A new project with Civic Tech Fredericton 
 
