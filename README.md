@@ -7,7 +7,7 @@ I am a graduate of New Brunswick Community College's Information Technology: Pro
 
 Skills: React, React Native, JavaScript, .Net, MongoDB, SQL, PL/SQL, Python and Java
 
-- 🔭 I’m currently working on A new project with Civic Tech Fredericton 
+- 🔭 I’m currently working on a new project with [Civic Tech Fredericton](https://www.civictechfredericton.com/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Charlie-OBrien)  
